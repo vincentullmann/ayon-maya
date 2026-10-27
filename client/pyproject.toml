@@ -1,0 +1,5 @@
+[project]
+name = "ayon-maya"
+version = "0.1.0"
+description = "AYON Maya addon"
+requires-python = ">=3.10"
